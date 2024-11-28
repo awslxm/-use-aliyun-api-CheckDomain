@@ -5,7 +5,6 @@
 ## 安装方式
 ```
  pip install alibabacloud_domain20180129==4.0.0
-
 ```
 ## 运行结果
 ```
