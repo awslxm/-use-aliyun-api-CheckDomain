@@ -3,7 +3,7 @@
 ## 运行环境
 + python 3.7+
 ## 安装方式
-```pip install alibabacloud_domain20180129==4.0.0```
+``` pip install alibabacloud_domain20180129==4.0.0 ```
 ## 运行结果
 ```
 2024-11-28 09:04:00 - 261111.xyz - 不可注册
